@@ -1,0 +1,13 @@
+build/
+bin/
+*.o
+*.out
+*.exe
+*.a
+*.so
+
+.vscode/
+
+matrix_test
+
+*.csv
